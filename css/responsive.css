@@ -1,10 +1,11 @@
 @charset "utf-8";
 
 /* ========== 1140px 이하 반응형 ========== */
-@media screen and (max-width: 1140px) {
+@media screen and (max-width: 1440px) {
  header {
     height: 75%;
  }
+
 
   .container {
     width: 90%;

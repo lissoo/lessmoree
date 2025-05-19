@@ -155,12 +155,6 @@ section .work1 .item {
     text-shadow: 2px 2px 3px rgb(185, 185, 185);
 }
 
-.work2 {
-    width: 100%;
-    height: 100vh;
-    background: url(../images/2.png)no-repeat center/contain;
-    padding-top: 100px;
-}
 
 .imagin {
     margin: 50vh auto;
